@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
@@ -23,6 +24,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0268-missing-number) |
@@ -35,6 +37,7 @@
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
