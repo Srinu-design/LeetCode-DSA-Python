@@ -31,6 +31,7 @@
 | [0242-valid-anagram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -66,6 +67,7 @@
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 ## Math
 |  |
 | ------- |
@@ -109,6 +111,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
+| [0383-ransom-note](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 ## Quickselect
 |  |
 | ------- |
