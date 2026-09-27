@@ -8,6 +8,7 @@
 | [0011-container-with-most-water](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0036-valid-sudoku](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
@@ -25,6 +26,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
@@ -122,4 +124,8 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
