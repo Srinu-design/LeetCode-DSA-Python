@@ -21,6 +21,7 @@
 | [0283-move-zeroes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,6 +37,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
+| [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Sorting
 |  |
 | ------- |
@@ -128,4 +130,16 @@
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0036-valid-sudoku) |
+## Linked List
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
+## Design
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
