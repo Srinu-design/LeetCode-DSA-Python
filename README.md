@@ -27,6 +27,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0268-missing-number) |
@@ -65,6 +66,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
+| [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
