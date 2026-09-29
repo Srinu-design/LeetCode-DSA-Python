@@ -73,6 +73,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
 | [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
@@ -158,4 +159,12 @@
 |  |
 | ------- |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
