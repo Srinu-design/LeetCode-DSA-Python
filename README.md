@@ -147,6 +147,7 @@
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -165,8 +166,13 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
