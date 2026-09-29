@@ -32,6 +32,7 @@
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0242-valid-anagram) |
@@ -65,6 +66,7 @@
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0344-reverse-string) |
 ## String
@@ -81,6 +83,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -151,4 +154,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
