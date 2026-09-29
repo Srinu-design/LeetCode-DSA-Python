@@ -146,6 +146,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
@@ -163,6 +164,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 ## Bracket Sequences
 |  |
 | ------- |
