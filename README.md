@@ -21,6 +21,7 @@
 | [0268-missing-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
+| [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0268-missing-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0383-ransom-note) |
+| [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Sorting
@@ -169,6 +171,7 @@
 | [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -178,4 +181,8 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
