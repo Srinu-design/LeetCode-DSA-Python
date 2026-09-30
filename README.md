@@ -24,6 +24,7 @@
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
+| [0739-daily-temperatures](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -172,6 +173,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -185,4 +187,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
