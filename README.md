@@ -216,4 +216,24 @@
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0084-largest-rectangle-in-histogram) |
+## Depth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
+## Directed Acyclic Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
