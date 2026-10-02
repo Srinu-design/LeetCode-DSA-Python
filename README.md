@@ -25,6 +25,7 @@
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0560-subarray-sum-equals-k) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
+| [0735-asteroid-collision](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0853-car-fleet) |
 ## Hash Table
@@ -180,6 +181,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
+| [0735-asteroid-collision](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0853-car-fleet) |
 ## Bracket Sequences
@@ -201,4 +203,8 @@
 |  |
 | ------- |
 | [0394-decode-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0394-decode-string) |
+## Simulation
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
