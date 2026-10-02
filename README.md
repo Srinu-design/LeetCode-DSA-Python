@@ -11,6 +11,7 @@
 | [0036-valid-sudoku](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0053-maximum-subarray) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
@@ -177,6 +178,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0071-simplify-path) |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
@@ -198,6 +200,7 @@
 ## Monotonic Stack
 |  |
 | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0853-car-fleet) |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [0735-asteroid-collision](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0735-asteroid-collision) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0084-largest-rectangle-in-histogram) |
 <!---LeetCode Topics End-->
