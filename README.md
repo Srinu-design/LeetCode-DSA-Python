@@ -153,6 +153,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Design
@@ -166,7 +167,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
-## Boyer–Moore Majority Vote Algorithm
+## BoyerâMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
@@ -208,6 +209,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0394-decode-string) |
 ## Simulation
