@@ -37,6 +37,7 @@
 | [0036-valid-sudoku](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
@@ -73,6 +74,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
@@ -154,6 +156,7 @@
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 ## Design
@@ -167,13 +170,14 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
-## BoyerâMoore Majority Vote Algorithm
+## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
+| [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 ## Stack
 |  |
