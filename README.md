@@ -77,6 +77,7 @@
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0908-middle-of-the-linked-list) |
@@ -159,6 +160,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
 | [0908-middle-of-the-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0908-middle-of-the-linked-list) |
 ## Design
@@ -172,7 +174,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
-## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂ¢ÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
@@ -191,6 +193,7 @@
 | [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
+| [0234-palindrome-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0735-asteroid-collision) |
@@ -217,6 +220,7 @@
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0394-decode-string) |
 ## Simulation
 |  |
