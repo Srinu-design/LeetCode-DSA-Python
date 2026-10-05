@@ -79,6 +79,7 @@
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0908-middle-of-the-linked-list) |
 ## String
 |  |
 | ------- |
@@ -159,6 +160,7 @@
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
+| [0908-middle-of-the-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0908-middle-of-the-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -170,7 +172,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
-## BoyerÃ¢ÂÂMoore Majority Vote Algorithm
+## BoyerÃÂ¢ÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
