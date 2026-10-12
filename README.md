@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0146-lru-cache](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@
 | [0088-merge-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0189-rotate-array) |
@@ -165,6 +167,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0143-reorder-list) |
 | [0146-lru-cache](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0160-intersection-of-two-linked-lists) |
@@ -184,7 +187,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
-## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
@@ -192,6 +195,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0142-linked-list-cycle-ii) |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 ## Stack
 |  |
