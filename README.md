@@ -38,6 +38,7 @@
 | [0049-group-anagrams](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0205-isomorphic-strings) |
@@ -161,6 +162,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0141-linked-list-cycle) |
+| [0146-lru-cache](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0234-palindrome-linked-list) |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
@@ -168,6 +170,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0232-implement-queue-using-stacks) |
@@ -176,7 +179,7 @@
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0706-design-hashmap) |
-## BoyerÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
+## BoyerÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂ¢ÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂÃÂMoore Majority Vote Algorithm
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0169-majority-element) |
@@ -252,4 +255,8 @@
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0207-course-schedule) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
