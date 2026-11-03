@@ -52,6 +52,7 @@
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 ## Hash Table
 |  |
 | ------- |
@@ -75,6 +76,7 @@
 | [0133-clone-graph](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 ## Union-Find
 |  |
 | ------- |
@@ -85,6 +87,7 @@
 | ------- |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
 | [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
+| [1036-rotting-oranges](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
 ## Graph Theory
 |  |
 | ------- |
