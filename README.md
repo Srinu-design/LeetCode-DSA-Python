@@ -19,6 +19,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -49,6 +50,7 @@
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 ## Hash Table
 |  |
 | ------- |
@@ -69,12 +71,15 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 ## Union-Find
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 ## Matrix
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 <!---LeetCode Topics End-->
