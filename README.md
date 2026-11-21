@@ -65,6 +65,7 @@
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
 ## Divide and Conquer
 |  |
@@ -81,6 +82,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0200-number-of-islands) |
@@ -132,4 +134,12 @@
 |  |
 | ------- |
 | [0801-is-graph-bipartite](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0801-is-graph-bipartite) |
+## String
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
