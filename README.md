@@ -30,6 +30,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0035-search-insert-position) |
 | [0098-validate-binary-search-tree](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0098-validate-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -57,6 +58,7 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0033-search-in-rotated-sorted-array) |
 | [0035-search-insert-position](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0035-search-insert-position) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0130-surrounded-regions](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0130-surrounded-regions) |
