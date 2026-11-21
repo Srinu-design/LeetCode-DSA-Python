@@ -10,6 +10,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -27,6 +28,7 @@
 | [0547-number-of-provinces](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0547-number-of-provinces) |
 | [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [0801-is-graph-bipartite](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0801-is-graph-bipartite) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -67,12 +69,14 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
 | [0133-clone-graph](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0133-clone-graph) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -144,6 +148,7 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
+| [3576-find-subtree-sizes-after-changes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Bidirectional Search
 |  |
 | ------- |
