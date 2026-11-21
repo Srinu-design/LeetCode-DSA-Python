@@ -69,6 +69,7 @@
 | [0417-pacific-atlantic-water-flow](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0417-pacific-atlantic-water-flow) |
 | [0695-max-area-of-island](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0695-max-area-of-island) |
 | [1036-rotting-oranges](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/1036-rotting-oranges) |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [3576-find-subtree-sizes-after-changes](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/3576-find-subtree-sizes-after-changes) |
 ## Hash Table
 |  |
@@ -153,4 +154,12 @@
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/0127-word-ladder) |
+## Greedy
+|  |
+| ------- |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/2706-minimum-score-by-changing-two-elements) |
+## Sorting
+|  |
+| ------- |
+| [2706-minimum-score-by-changing-two-elements](https://github.com/Srinu-design/LeetCode-DSA-Python/tree/master/2706-minimum-score-by-changing-two-elements) |
 <!---LeetCode Topics End-->
